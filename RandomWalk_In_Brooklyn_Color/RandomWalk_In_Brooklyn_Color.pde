@@ -60,7 +60,7 @@ PGraphics pgPedestrians;
 int loopCount = 0;
 
 // Decide how often this program diplays the image on the screen
-static int DISPLAY_INTERVAL = 100;
+static int DISPLAY_INTERVAL = 1;
 
 // Decide how often this program savse the image 
 static int SAVE_INTERVAL = 100;
